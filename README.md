@@ -1,5 +1,15 @@
-# company
+# Code (Made With C++)
 
-이곳은 가상 컴퍼니 레포지토리입니다 ^^
+```c++
+#include <iostream>
+using namespace std;
 
-이 곳은 직원 현재 직원 두명을 데리고 있습니다.
+int main() {
+  cout<<"hello c++ world !";
+  return 0;
+}
+```
+
+# Following's Contribution
+* [leejeonghoo1218](https:github.com/leejeonghoo1218, "프로필 보기")
+* [leejeonghoo1218-b](https:github.com/leejeonghoo1218-b, "프로필 보기")
